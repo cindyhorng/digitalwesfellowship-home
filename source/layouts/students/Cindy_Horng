@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Digital Wesleyan Fellowship</title>
+    <link href="students.css" rel="stylesheet"/>
+    <link href="./fonts/fontawesome/css/font-awesome.min.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="header">
+      <div class="headshot"></div>
+      <img src="#"/>
+      <h1 class="name">Cindy (Ya-Lih) Horng</h1>
+      <ul class="social">
+        <li><a href="#">
+          <i class="fa fa-twitter fa-lg"></i>
+        </a></li>
+        <li><a href="#">
+          <i class="fa fa-linkedin fa-lg"></i>
+        </a></li>
+        <li><a href="www.linkedin.com/pub/cindy-horng/89/897/5ab/">
+          <i class="fa fa-github fa-lg"></i>
+        </a></li>
+      </ul>
+    </div>
+    <div class="about">
+      <h2>About</h2>
+      <ul>
+        <li>Intended Majors: Economics, Sociology, French</li>
+        <li>Graduation Year: 2017</li>
+        <li>Hometown: Bangkok, Thailand and Taipei, Taiwan</li>
+      </ul>
+      <h2>Bio</h2>
+      <p>Hi everyone! I'm Cindy, a freshman at Wesleyan University passionate about social entrepreneurship and youth empowerment, and I'm currently really excited about learning more about computer programming! Thank you, Digital Wes :)</p>
+    </div>
+    <div class="project">
+      <h2>Project</h2>
+      <h3>COMING SOON!</h3>
+    </div>
+  </body>
+</html>
